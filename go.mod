@@ -1,4 +1,4 @@
-module github.com/rjeczalik/notify
+module github.com/FabianKramm/notify
 
 go 1.11
 
